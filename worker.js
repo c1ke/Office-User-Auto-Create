@@ -16,9 +16,9 @@ const officeConfig = {
 }
 
 const AADConfig = {
-	tenantId: '67fa32be-8dcf-4c76-be10-df5728bce3ab',
-	clientId: 'ce95100a-e7d0-4f8d-8233-6902ba6fa937',
-	clientSecret: '_oA~u24N9-a39TkGUqe1n.y0t_vHGeYhRr',
+	tenantId: '6b',
+	clientId: 'c7',
+	clientSecret: '_r',
 }
 
 const KV = _KV
