@@ -3,22 +3,22 @@ const notice = '公告，留空不显示'
 const officeConfig = {
 	subscriptions: [
 		{
-			name: 'Office 365 A1 Plus for faculty',
+			name: 'Office 365 A1  for faculty',
 			sku: ''
 		},
 		{
-			name: 'Office 365 A1 Plus for students',
+			name: 'Office 365 A1 for students',
 			sku: ''
 		},
 	],
-	domains: ['a1p.us'],
-	getCodeLink: 'https://a1p.us',
+	domains: ['vanhasseltschool.nl'],
+	getCodeLink: 'https://vanhasseltschool.nl',
 }
 
 const AADConfig = {
-	tenantId: '',
-	clientId: '',
-	clientSecret: '',
+	tenantId: '67fa32be-8dcf-4c76-be10-df5728bce3ab',
+	clientId: 'ce95100a-e7d0-4f8d-8233-6902ba6fa937',
+	clientSecret: '_oA~u24N9-a39TkGUqe1n.y0t_vHGeYhRr',
 }
 
 const KV = _KV
